@@ -76,17 +76,17 @@ div{
 }
 
 #container>div{
-    /* width: 200px;
-    height: 200px;  */
+     width: 200px;
+    height: 200px;  
     background-color: aqua;
     border: 2px solid black;
 }
 #div1{
-    /* grid-row-start: 1;
-    grid-row-end: 4; */
-    /* grid-row: span 3; */
-    /* grid-row: 1/4; */
-    /* grid-area: header; */
+     grid-row-start: 1;
+    grid-row-end: 4; 
+     grid-row: span 3; 
+     grid-row: 1/4; 
+     grid-area: header; 
 
 }
 #div2{
