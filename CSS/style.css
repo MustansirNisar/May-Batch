@@ -97,14 +97,14 @@ div{
      grid-area:1/2/3/4 ; 
      grid-area: main; 
 }
-/* #div3{
+ #div3{
     grid-area: side;
 }
 
 #div4{
     grid-area: footer;
 
-} */
+} 
 
 
 
