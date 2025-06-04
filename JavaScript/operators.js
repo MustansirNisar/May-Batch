@@ -1,11 +1,11 @@
-// let a = 10;
-// let b = 3;
-// let sum = a + b;
+ let a = 10;
+ let b = 3;
+ let sum = a + b;
 
-// console.log("The sum of a and b is:", sum); //Addition
-// console.log(a - b); //Subtraction
-// console.log(a * b) // Multiplication
-// console.log(a / b); // Division
+ console.log("The sum of a and b is:", sum); //Addition
+ console.log(a - b); //Subtraction
+ console.log(a * b) // Multiplication
+ console.log(a / b); // Division
 // console.log(a % b); //Modulus
 // console.log(a ** b) //Exponentiation
 // let x = 5;
