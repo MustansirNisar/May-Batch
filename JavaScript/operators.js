@@ -6,14 +6,14 @@
  console.log(a - b); //Subtraction
  console.log(a * b) // Multiplication
  console.log(a / b); // Division
-// console.log(a % b); //Modulus
-// console.log(a ** b) //Exponentiation
-// let x = 5;
-// x++; //Addition of 1
-// console.log(x)
-// let x = 6;
-// x--; //Subtraction of 1
-// console.log(x)
+ console.log(a % b); //Modulus
+ console.log(a ** b) //Exponentiation
+ let x = 5;
+ x++; //Addition of 1
+ console.log(x)
+ let x = 6;
+ x--; //Subtraction of 1
+ console.log(x)
 
 
 // let y = 10;
