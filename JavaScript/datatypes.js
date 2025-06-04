@@ -1,17 +1,17 @@
-// let fullName = "Mustansir"
-// console.log(typeof(fullName))
-// let age = "30";
-// console.log(typeof(age))
+ let fullName = "Jhonny"
+ console.log(typeof(fullName))
+ let age = "30";
+ console.log(typeof(age))
 
-// let age = 25;
-// console.log(typeof(age))
-// let price = 220.4;
-// console.log(typeof(price))
+ let age = 25;
+ console.log(typeof(age))
+ let price = 220.4;
+ console.log(typeof(price))
 
-// let isLoggedIn = true;
-// let isLoggedOut = false;
-// console.log(typeof(isLoggedIn))
-// console.log(typeof(isLoggedOut))
+ let isLoggedIn = true;
+ let isLoggedOut = false;
+ console.log(typeof(isLoggedIn))
+ console.log(typeof(isLoggedOut))
 
 // let user;
 // console.log(typeof(user))
