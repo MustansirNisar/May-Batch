@@ -33,27 +33,27 @@
  console.log(x *= 2);
  console.log(x)
 
-// let a = 10;
-// let b = 10;
-// console.log(a == b)
-// console.log(a > b)
-// console.log(a < b)
-// console.log(a <= b)
-// console.log(a != b)
+ let a = 10;
+ let b = 10;
+ console.log(a == b)
+ console.log(a > b)
+ console.log(a < b)
+ console.log(a <= b)
+ console.log(a != b)
 
-// let a = 5;
-// let b = "5"; //this string is converted to a number
-// console.log(a == b); //loose comparison //value is considered
-// console.log(a === b); //Strict comparison // vlaue + data type is considered
+ let a = 5;
+ let b = "5"; //this string is converted to a number
+ console.log(a == b); //loose comparison //value is considered
+ console.log(a === b); //Strict comparison // vlaue + data type is considered
 
 //!= !==
 
 let age = 25;
 let marks = 90;
-// console.log(age<18 && marks>100)
-// console.log(age<18 || marks>100)
-// console.log(!age<18)
-// console.log(!marks>100)
+ console.log(age<18 && marks>100)
+ console.log(age<18 || marks>100)
+ console.log(!age<18)
+ console.log(!marks>100)
 
 
 
