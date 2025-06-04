@@ -25,13 +25,13 @@
  console.log(y--);
  console.log(--y)
 
-// let x = 10;
- // x = x + 5
-// console.log(x += 5)
-// console.log(x)
-// console.log(x -= 2);
-// console.log(x *= 2);
-// console.log(x)
+ let x = 10;
+  x = x + 5
+ console.log(x += 5)
+ console.log(x)
+ console.log(x -= 2);
+ console.log(x *= 2);
+ console.log(x)
 
 // let a = 10;
 // let b = 10;
