@@ -16,14 +16,14 @@
  console.log(x)
 
 
-// let y = 10;
-// console.log(y++); //prints or ouputs 10, then increments y to become 11
-// console.log(++y)
+ let y = 10;
+ console.log(y++); //prints or ouputs 10, then increments y to become 11
+ console.log(++y)
 
 
-// let y = 6;
-// console.log(y--);
-// console.log(--y)
+ let y = 6;
+ console.log(y--);
+ console.log(--y)
 
 // let x = 10;
  // x = x + 5
