@@ -10,18 +10,18 @@
      console.log("You are not eligible to vote")
  }
 
-// console.log("Okay")
+ console.log("Okay")
 
-// let fullName = "Samar"
-// let code;
-// if(fullName==="Safal"){
-//     code = "S23"
-//     console.log("Your code is: ", code);
-// }
-// if(fullName==="Samar"){
-//     code = "S24"
-//     console.log("Your code is: ", code);
-// }
+ let fullName = "Samar"
+ let code;
+ if(fullName==="Safal"){
+     code = "S23"
+     console.log("Your code is: ", code);
+ }
+ if(fullName==="Samar"){
+     code = "S24"
+     console.log("Your code is: ", code);
+ }
 // let age = 17;
 // if(age>=18){
 //     console.log("you can vote");
