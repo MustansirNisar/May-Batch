@@ -44,14 +44,14 @@
      console.log("You didn't qualify")
  }
 
-// condition?value_if_true:value_if_false;
-// let age = 17;
-// age>18?console.log("vote"):console.log("Not Vote")
+ condition?value_if_true:value_if_false;
+ let age = 17;
+ age>18?console.log("vote"):console.log("Not Vote")
 
-// let num = Number(prompt("Enter any number: "));
+ let num = Number(prompt("Enter any number: "));
 
-// console.log("Entered number:", num);
-// console.log(typeof(num));
+ console.log("Entered number:", num);
+ console.log(typeof(num));
 
 
 
