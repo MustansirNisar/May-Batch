@@ -7,38 +7,38 @@
 
  greet(); //Function Call
 
-// function greet(){
-//     for(let i=0; i<10; i++){
-//         console.log("Hello and Welcome")
-//     }
-// }
+ function greet(){
+     for(let i=0; i<10; i++){
+         console.log("Hello and Welcome")
+     }
+ }
 
-// greet();
-// greet();
+ greet();
+ greet();
 
-// function greet(fullName){
-//     console.log("Welcome", fullName, "to this session")
+ function greet(fullName){    //Function with Parameters
+     console.log("Welcome", fullName, "to this session") 
 
-// }
+ }
 
 
-// greet("Pema");
+ greet("Pema"); //Calling with an Argument
 
-// function sum(a, b){
-//     console.log("The sum of the numbers is: ", a+b);
-// }
+ function sum(a, b){  //Multiple Arguments
+     console.log("The sum of the numbers is: ", a+b);
+ }
 
-// sum(10, 20)
+ sum(10, 20)
 
-// function add(a,b){ //a and b are parameters
-//     console.log("Before the return statement")        
-//     console.log("Something else")        
-//     return a+b;          //Return value
-//     console.log("After the return statement")        
-// }
-// console.log(add(2,18))
+ function add(a,b){ //a and b are parameters
+     console.log("Before the return statement")        
+     console.log("Something else")        
+     return a+b;          //Return value
+     console.log("After the return statement")        
+ }
+ console.log(add(2,18)) //Function call with a Return Value
 
-// console.log(a)
+ console.log(a)
 
 // let sum = add(4, 2)
 // console.log(sum)
