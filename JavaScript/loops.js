@@ -1,5 +1,5 @@
  for(let i=0; i<10; i++ ){
-     console.log("The value of i is: ", i);
+     console.log("The value of i is: ", i); //For Loop
  }
 
 Calculate the sum of first ten numbers
@@ -12,7 +12,7 @@ Calculate the sum of first ten numbers
 
  let i=0;
  while(i<10){
-     console.log("The value of i is: ", i)
+     console.log("The value of i is: ", i) //While Loop
      i++;
 
  }
@@ -25,7 +25,7 @@ Calculate the sum of first ten numbers
 
 
  let message = "Welcome"
- for(let char of message ){
+ for(let char of message ){   //for-of Loop
      console.log(char)
  }
  let size = 0;
@@ -49,8 +49,8 @@ let student = {
     course: "full stack development",
     isPass: true
 }
-for(let key in student){
-    console.log(key, ":", student[key])
+for(let key in student){    //for-in Loop to iterate through the keys of an object
+    console.log(key, ":", student[key])   
 }
  console.log(student)
  console.log(student.fullName)
@@ -58,15 +58,15 @@ for(let key in student){
  console.log(student.cgpa)
  console.log(student["course"])
 
-// student.city = "NY"
-// console.log(student.address.add1)
+ student.city = "NY"
+ console.log(student.address.add1)
 
-// console.log(student)
-// student.cgpa = 10
-// console.log(student)
+ console.log(student)
+ student.cgpa = 10
+ console.log(student)
 
-// delete student.id
-// console.log(student)
+ delete student.id
+ console.log(student)
 
 
 
