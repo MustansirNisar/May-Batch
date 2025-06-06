@@ -18,9 +18,9 @@
  console.log(fruits)
  console.log(fruits.length)
 
-// for(let i=0; i<fruits.length; i++){
-//     console.log(i,":", fruits[i])
-// }
+ for(let i=0; i<fruits.length; i++){
+     console.log(i,":", fruits[i])
+ }
 
 // fruits.push("Guava")
 // let rem = fruits.pop()
