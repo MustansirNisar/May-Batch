@@ -78,18 +78,18 @@
  });
 
  const numbers = [1, 3, 5, 6]
- let newarr = numbers.map((num)=>{  //Map method
+ let newarr = numbers.map((num)=>{  //Map Method
      return num * 2;
  })
  console.log(newarr)
  console.log(numbers)
 
-// const numbers = [1, 2, 3, 4, 5, 6 ]
-// let evenNumbers = numbers.filter((num)=>{
-//     return num % 2 === 0;
-// })
+ const numbers = [1, 2, 3, 4, 5, 6 ]
+ let evenNumbers = numbers.filter((num)=>{ //Filter Method
+     return num % 2 === 0;
+ })
 
-// console.log(evenNumbers)
+ console.log(evenNumbers)
 
 
 
