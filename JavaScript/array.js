@@ -5,11 +5,11 @@
  console.log(newArray)
 
 //Template Literals
-// let a = 20;
-// let b =50;
-// let sum = a +b
-// console.log(`The sum of ${a} and ${b} is ${sum}`)
-// console.log(`The sum of a and b is ${20+70}`)
+ let a = 20;
+ let b =50;
+ let sum = a +b
+ console.log(`The sum of ${a} and ${b} is ${sum}`)
+ console.log(`The sum of a and b is ${20+70}`)
 
 // console.log(fruits[0])
 // console.log(fruits[2])
