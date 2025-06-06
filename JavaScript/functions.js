@@ -40,27 +40,27 @@
 
  console.log(a)
 
-// let sum = add(4, 2)
-// console.log(sum)
-// function num(n){
-//     if(n>0) return "positive"
-//     if(n<0) return "Negative"
-//     return "Zero"
-// }
+ let sum = add(4, 2)
+ console.log(sum)
+ function num(n){
+     if(n>0) return "positive"  //Multiple Return Statements in a single Function
+     if(n<0) return "Negative"
+     return "Zero"
+ }
 
-// console.log(num(-12))
+ console.log(num(-12))
 
-// let greet = function(fullName){
-//     console.log("Hello", fullName)
-// }
+ let greet = function(fullName){
+     console.log("Hello", fullName)
+ }
 
-// greet("Samar")
+ greet("Samar")
 
-// let greet = (fullName)=>{
-//     return "Hello " + fullName
-// }
+ let greet = (fullName)=>{
+     return "Hello " + fullName
+ }
 
-// console.log(greet("suyes"))
+ console.log(greet("suyes"))
 
 // let greet = ()=>{
 //     console.log("hello")
