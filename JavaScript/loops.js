@@ -1,13 +1,13 @@
-// for(let i=0; i<10; i++ ){
-//     console.log("The value of i is: ", i);
-// }
+ for(let i=0; i<10; i++ ){
+     console.log("The value of i is: ", i);
+ }
 
-//Calculate the sum of first ten numbers
-// let sum = 0;
-// for(let i=1; i<=10; i++){
-//     sum = sum + i;
-// }
-// console.log("The sum of the first ten numbers is: ", sum);
+Calculate the sum of first ten numbers
+ let sum = 0;
+ for(let i=1; i<=10; i++){
+     sum = sum + i;
+ }
+ console.log("The sum of the first ten numbers is: ", sum);
 
 
 // let i=0;
