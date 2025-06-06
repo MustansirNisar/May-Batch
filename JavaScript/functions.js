@@ -71,18 +71,18 @@
 
  console.log(exp(2))
 
-// const fruits = ["apple", "Banana", "Cherry", "Mango"]
+ const fruits = ["apple", "Banana", "Cherry", "Mango"]
 
-// fruits.forEach((current, position, arr)=>{
-//     console.log(current.toUpperCase(), "at index", position, "in the array", arr);
-// });
+ fruits.forEach((current, position, arr)=>{
+     console.log(current.toUpperCase(), "at index", position, "in the array", arr); //For-each Loop/method
+ });
 
-// const numbers = [1, 3, 5, 6]
-// let newarr = numbers.map((num)=>{
-//     return num * 2;
-// })
-// console.log(newarr)
-// console.log(numbers)
+ const numbers = [1, 3, 5, 6]
+ let newarr = numbers.map((num)=>{  //Map method
+     return num * 2;
+ })
+ console.log(newarr)
+ console.log(numbers)
 
 // const numbers = [1, 2, 3, 4, 5, 6 ]
 // let evenNumbers = numbers.filter((num)=>{
