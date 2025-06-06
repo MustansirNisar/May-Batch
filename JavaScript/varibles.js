@@ -1,21 +1,21 @@
-// let rollNumber2 = 44;
-// console.log(rollNumber2)
+ let rollNumber2 = 44;
+ console.log(rollNumber2)
 
-// let fullName = "Mustansir"
-// let age222;
-// let $price;
+ let fullName = "Someone"
+ let age222;
+ let $price;
 
-// let 2age;
+ let 2age;
 
-// let Name = "Mustansir"
-// let name = "Samar"
+ let Name = "Mustansir"
+ let name = "Samar"
 
-// console.log(name)
-// console.log(Name)
+ console.log(name)
+ console.log(Name)
 
-// const let = 5;
+ const let = 5;
 
-// let function = 22;
+ let function = 22;
     
 
 
