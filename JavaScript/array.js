@@ -11,12 +11,12 @@
  console.log(`The sum of ${a} and ${b} is ${sum}`)
  console.log(`The sum of a and b is ${20+70}`)
 
-// console.log(fruits[0])
-// console.log(fruits[2])
+ console.log(fruits[0])
+ console.log(fruits[2])
 
-// fruits[1] = "Grapes"
-// console.log(fruits)
-// console.log(fruits.length)
+ fruits[1] = "Grapes"
+ console.log(fruits)
+ console.log(fruits.length)
 
 // for(let i=0; i<fruits.length; i++){
 //     console.log(i,":", fruits[i])
