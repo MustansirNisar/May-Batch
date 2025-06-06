@@ -22,10 +22,10 @@
      console.log(i,":", fruits[i])
  }
 
-// fruits.push("Guava")
-// let rem = fruits.pop()
-// console.log(fruits)
-// console.log("Deleted element: ",rem)
+ fruits.push("Guava")
+ let rem = fruits.pop()
+ console.log(fruits)
+ console.log("Deleted element: ",rem)
 
 
 // fruits.unshift("Grapes")
