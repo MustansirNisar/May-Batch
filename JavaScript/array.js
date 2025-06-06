@@ -1,8 +1,8 @@
-// let fruits = ["Apple", "Banana", "Mango", "Orange"]
-// let nums = [12, 44, 55, 66]
+ let fruits = ["Apple", "Banana", "Mango", "Orange"]
+ let nums = [12, 44, 55, 66]
 
-// let newArray = fruits.concat(nums)
-// console.log(newArray)
+ let newArray = fruits.concat(nums)
+ console.log(newArray)
 
 //Template Literals
 // let a = 20;
