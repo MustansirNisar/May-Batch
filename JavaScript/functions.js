@@ -1,11 +1,11 @@
 
 
-// function greet(){    //Function Definition or Declaration
-//     console.log("HEllO")
-//     console.log("How are you?")
-// }
+ function greet(){    //Function Definition or Declaration
+     console.log("HEllO")
+     console.log("How are you?")
+ }
 
-// greet();
+ greet(); //Function Call
 
 // function greet(){
 //     for(let i=0; i<10; i++){
