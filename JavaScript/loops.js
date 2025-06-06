@@ -24,17 +24,17 @@ Calculate the sum of first ten numbers
 
 
 
-// let message = "Welcome"
-// for(let char of message ){
-//     console.log(char)
-// }
-// let size = 0;
-// let fullName = "Mustansir"
-// for(let letter of fullName){
-//     console.log(letter)
-//     size++;
-// }
-// console.log("The number of chars in the name are:", size)
+ let message = "Welcome"
+ for(let char of message ){
+     console.log(char)
+ }
+ let size = 0;
+ let fullName = "Mustansir"
+ for(let letter of fullName){
+     console.log(letter)
+     size++;
+ }
+ console.log("The number of chars in the name are:", size)
 
 
 let student = {
