@@ -62,14 +62,14 @@
 
  console.log(greet("suyes"))
 
-// let greet = ()=>{
-//     console.log("hello")
-// }
-// greet();
+ let greet = ()=>{
+     console.log("hello")  //Arrow Function
+ }
+ greet();
 
-// let exp = a=>a**2; 
+ let exp = a=>a**2;  //Arrow Function with a single parameter and function Statement
 
-// console.log(exp(2))
+ console.log(exp(2))
 
 // const fruits = ["apple", "Banana", "Cherry", "Mango"]
 
