@@ -52,11 +52,11 @@ let student = {
 for(let key in student){
     console.log(key, ":", student[key])
 }
-// console.log(student)
-// console.log(student.fullName)
-// console.log(student.isPass)
-// console.log(student.cgpa)
-// console.log(student["course"])
+ console.log(student)
+ console.log(student.fullName)
+ console.log(student.isPass)
+ console.log(student.cgpa)
+ console.log(student["course"])
 
 // student.city = "NY"
 // console.log(student.address.add1)
