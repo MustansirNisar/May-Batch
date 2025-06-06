@@ -10,17 +10,17 @@ Calculate the sum of first ten numbers
  console.log("The sum of the first ten numbers is: ", sum);
 
 
-// let i=0;
-// while(i<10){
-//     console.log("The value of i is: ", i)
-//     i++;
+ let i=0;
+ while(i<10){
+     console.log("The value of i is: ", i)
+     i++;
 
-// }
-// let i=12;
-// do{
-//     console.log("Hello and Welcome");
-//     i++;
-// }while(i<10);
+ }
+ let i=12;
+ do{
+     console.log("Hello and Welcome");
+     i++;
+ }while(i<10);
 
 
 
