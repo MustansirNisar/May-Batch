@@ -1,5 +1,5 @@
-// let element = document.getElementById("p1")
-// console.log(element)
+ let element = document.getElementById("p1")
+ console.log(element)
 
 
 // let button = document.getElementById("btn")
