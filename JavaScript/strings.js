@@ -1,7 +1,7 @@
 let fullName = '      PraTiksha     '
-// console.log(fullName.length)
-// console.log(fullName[5])
-// console.log(fullName[0])
+ console.log(fullName.length)
+ console.log(fullName[5])
+ console.log(fullName[0])
 
 // let newstring = fullName.toUpperCase();
 // fullName.toLowerCase();
