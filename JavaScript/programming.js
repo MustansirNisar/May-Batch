@@ -1,17 +1,16 @@
-// function greet(){
-//     console.log("Hello")
-// }
+ function greet(){
+     console.log("Hello")
+ }
 
+ setTimeout(greet, 5000); //setTimeout Function //3000 miliseconds = 3 seconds
 
-// setTimeout(greet, 5000); //setTimeout Function //3000 miliseconds = 3 seconds
+ console.log("This is before setTimout")
 
-// console.log("This is before setTimout")
+ setTimeout(()=>{
+     console.log("This is inside setTimeout")
+ }, 4000);
 
-// setTimeout(()=>{
-//     console.log("This is inside setTimeout")
-// }, 4000);
-
-// console.log("This is after setTimeout")
+ console.log("This is after setTimeout")
 
 // function greet(){
 //     console.log("This course has been designed for you, and this is a CallBack")
