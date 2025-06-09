@@ -3,9 +3,7 @@
 // }
 
 
-
-
-// setTimeout(greet, 5000);//3000 miliseconds = 3 seconds
+// setTimeout(greet, 5000); //setTimeout Function //3000 miliseconds = 3 seconds
 
 // console.log("This is before setTimout")
 
