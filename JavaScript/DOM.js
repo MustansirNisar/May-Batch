@@ -31,21 +31,21 @@
  console.log(divs.firstElementChild)
 
 
-// let para = document.querySelector("p")
-// console.log(para.getAttribute("id"))
-// // console.log(para.getAttribute("class"))
-// console.log(para.getAttribute("style"))
+ let para = document.querySelector("p")
+ console.log(para.getAttribute("id"))
+ console.log(para.getAttribute("class"))
+ console.log(para.getAttribute("style"))
 
 
-// para.setAttribute("class", "paragraph")
-// // para.setAttribute("style", "background-color: green")
+ para.setAttribute("class", "paragraph")
+ para.setAttribute("style", "background-color: green")
 
-// console.log(para.hasAttribute("style"))
-// para.style.backgroundColor = "green"
-// para.style.fontSize = "40px"
-// para.style.color = "White"
-// para.setAttribute("style", "background-color: green; font-size: 40px; color: white")
-// para.classList.add("highlight")
+ console.log(para.hasAttribute("style"))
+ para.style.backgroundColor = "green"
+ para.style.fontSize = "40px"
+ para.style.color = "White"
+ para.setAttribute("style", "background-color: green; font-size: 40px; color: white")
+ para.classList.add("highlight")
 
 // let target = document.querySelector("#list")
 
