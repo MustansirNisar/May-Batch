@@ -2,24 +2,24 @@
  console.log(element)
 
 
-// let button = document.getElementById("btn")
-// console.log(button)
+ let button = document.getElementById("btn")
+ console.log(button)
 
-// let divs = document.getElementsByClassName("boxes")
-// console.log(divs)
+ let divs = document.getElementsByClassName("boxes")
+ console.log(divs)
 
-// let divs = document.getElementsByTagName("div")
-// console.log(divs)
+ let divs = document.getElementsByTagName("div")
+ console.log(divs)
 
-// let para = document.querySelector(".boxes")
-// console.log(para)
+ let para = document.querySelector(".boxes")
+ console.log(para)
 
-// let divs = document.querySelectorAll(".boxes")
-// console.log(divs)
+ let divs = document.querySelectorAll(".boxes")
+ console.log(divs)
 
-// let para = document.querySelector("p")
+ let para = document.querySelector("p")
 
-// console.log(para.tagName)
+ console.log(para.tagName)
 
 // console.log(para.textContent)
 // console.log(para.innerText)
