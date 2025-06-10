@@ -47,24 +47,24 @@
  para.setAttribute("style", "background-color: green; font-size: 40px; color: white")
  para.classList.add("highlight")
 
-// let target = document.querySelector("#list")
+ let target = document.querySelector("#list")
 
-// let newel = document.createElement("li")
-// newel.innerText = "Banana"
+ let newel = document.createElement("li")
+ newel.innerText = "Banana"
 
-// target.after(newel)
-// let mang = document.querySelector("#mango")
-// mang.remove()
+ target.after(newel)
+ let mang = document.querySelector("#mango")
+ mang.remove()
 
-// let button = document.querySelector("#btn")
+ let button = document.querySelector("#btn")
 
 
-// button.onclick = ()=>{
-//     alert("You clicked the button")
-//     // button.style.color = "green"
-//     // button.style.height = "100px"
-//     // button.style.border = "4px solid green"
-// }
+ button.onclick = ()=>{
+     alert("You clicked the button")
+      button.style.color = "green"
+      button.style.height = "100px"
+      button.style.border = "4px solid green"
+ }
 
 
 // button.onclick = ()=>{
