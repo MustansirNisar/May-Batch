@@ -21,14 +21,14 @@
 
  console.log(para.tagName)
 
-// console.log(para.textContent)
-// console.log(para.innerText)
+ console.log(para.textContent)
+ console.log(para.innerText)
 
-// console.log(para.innerHTML)
+ console.log(para.innerHTML)
 
-// let divs = document.querySelector("#parent")
+ let divs = document.querySelector("#parent")
 
-// console.log(divs.firstElementChild)
+ console.log(divs.firstElementChild)
 
 
 // let para = document.querySelector("p")
