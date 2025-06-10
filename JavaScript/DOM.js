@@ -67,12 +67,12 @@
  }
 
 
-// button.onclick = ()=>{
-//     // alert("You clicked the button")
-//     button.style.color = "green"
-//     button.style.height = "100px"
-//     button.style.border = "4px solid green"
-// }
+ button.onclick = ()=>{
+      alert("You clicked the button")
+     button.style.color = "green"
+     button.style.height = "100px"
+     button.style.border = "4px solid green"
+ }
 let button = document.querySelector("#btn")
 button.addEventListener("mouseover", ()=>{
     alert("you have clicked the button")
