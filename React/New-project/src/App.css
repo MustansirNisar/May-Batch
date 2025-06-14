@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+    background-color: bisque;
+    border: 2px solid black;
+}
+
+#h3{
+    font-size: 30px;
+    color:yellow;
+}
+
+#list{
+    color: brown;
+    font-size: 30px;
+}
