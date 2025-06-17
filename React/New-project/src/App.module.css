@@ -1,0 +1,13 @@
+.heading{
+    color: chocolate;
+    background-color: aqua;
+    border: 4px dashed blue;
+    width: 300px;
+}
+
+.list{
+    color: brown;
+    font-size: 40px;
+    border: 4px dotted brown;
+    background-color: blueviolet;
+}
